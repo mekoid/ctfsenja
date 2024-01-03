@@ -2,9 +2,12 @@
 ini adalah respositories untuk menyimpan writeup dan challenge ctfsenja di masa saya sekolah di SMK SORE TULUNGAGUNG, ctfsenja adalah tempat pelajar smk sore tulungagung mempelajari bidang keamanan siber. dengan awal seperti ini semoga kedepannya bidang ini berkembang di SMK SORE TULUNGAGUNG
 
 ## Probset
-Coslow = Eko Wahyudi (alumni 2024)
-midun = Ahmad Rizki Ramadhani (alumni 2024)
-surya1337 = Muhammad Surya Maulana
+| Username | Nama | Alumni |
+| ---------- | ---- | ----- |
+|surya1337 | Muhammad Surya Maulana | 2023 |
+|Coslow | Eko Wahyudi | alumni 2024 |
+|midun | Ahmad Rizki Ramadhani | alumni 2024 |
+
 
 ## Partisipan 
 | Username | Email | 
