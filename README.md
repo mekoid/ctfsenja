@@ -5,8 +5,8 @@ ini adalah respositories untuk menyimpan writeup dan challenge ctfsenja di masa 
 | Username | Nama | Alumni |
 | ---------- | ---- | ----- |
 |surya1337 | Muhammad Surya Maulana | 2023 |
-|Coslow | Eko Wahyudi | alumni 2024 |
-|midun | Ahmad Rizki Ramadhani | alumni 2024 |
+|Coslow | Eko Wahyudi | 2024 |
+|midun | Ahmad Rizki Ramadhani | 2024 |
 
 
 ## Partisipan 
